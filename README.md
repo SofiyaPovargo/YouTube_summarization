@@ -28,7 +28,7 @@
 
 ## 🎯 Интерфейс приложения
 
-![Summarizer Interface](https://via.placeholder.com/800x400/0088cc/ffffff?text=YouTube+Website+Summarizer+App)
+![Summarizer Interface](https://github.com/SofiyaPovargo/YouTube_summarization/blob/main/streamlit_app.png)
 *Пример интерфейса суммаризатора*
 
 ## ⚡ Быстрый старт
